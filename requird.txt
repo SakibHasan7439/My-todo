@@ -1,0 +1,3 @@
+create dynamic todo list
+create a delete button with each list item
+create a delete button that will delete all the list item
